@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-choose-laser-scanner-for-your-project",
+        
+          title: "Choose Laser Scanner for Your Project",
+        
+        description: "机器人雷达选型",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9B%B7%E8%BE%BE%E9%80%89%E5%9E%8B/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
